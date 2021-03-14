@@ -14,7 +14,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "fifthProgram",
+        "dogStore",
         "Elements",
         "lblTitle.json"
       ]
@@ -23,7 +23,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "fifthProgram",
+        "dogStore",
         "Elements",
         "btnProducts.json"
       ]
@@ -32,7 +32,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "fifthProgram",
+        "dogStore",
         "Elements",
         "lblProductDisplay.json"
       ]
@@ -41,7 +41,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "fifthProgram",
+        "dogStore",
         "Elements",
         "imgDog.json"
       ]
@@ -50,7 +50,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "fifthProgram",
+        "dogStore",
         "Elements",
         "inptWishlistItem.json"
       ]
@@ -59,7 +59,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "fifthProgram",
+        "dogStore",
         "Elements",
         "lblUserWishlist.json"
       ]
@@ -68,7 +68,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "fifthProgram",
+        "dogStore",
         "Elements",
         "btnAddToWishlist.json"
       ]
@@ -80,7 +80,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": "",
-  "id": "fifthProgram",
+  "id": "dogStore",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

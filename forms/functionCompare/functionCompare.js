@@ -1,5 +1,5 @@
 /*
-function comparePassword(pass1, pass2) {
+function Compare(pass1, pass2) {
   password = pass1
   confirmPassword = pass2
   if (password == confirmPassword) {
@@ -8,7 +8,7 @@ function comparePassword(pass1, pass2) {
   console.log("The passwords are not the same.")}
   }
 
-let password = prompt("Enter your password")
+let pass = prompt("Enter your password")
 let confirm = prompt("Confirm your password")
-let passwordComparison = comparePassword(password, confirm)
+let passwordComparison = Compare(pass, confirm)
 */
